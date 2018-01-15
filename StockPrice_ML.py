@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 from matplotlib import style
 import pickle
 
-style.use('ggplot')
+style.use('ggplot'
 
 
 df = quandl.get("WIKI/GOOGL")
